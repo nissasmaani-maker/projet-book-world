@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs et données locales
+*.log
+*.db
+*.sqlite3
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE et système
+.vscode/
+.idea/
+.DS_Store

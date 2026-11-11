@@ -1,0 +1,241 @@
+order_id;order_date;book_id;country_code;channel_code;quantity;discount_rate;customer_first_name;customer_last_name;book_name
+ORD000001;13/06/2025;BOOK00007;ES;APP;3;0.0;Mia;Lefebvre;The Dirty Little Secrets of Getting Your Dream Job
+ORD000002;10/03/2025;BOOK00020;FR;MKT;4;0.15;Nina;Robert;It's Only the Himalayas
+ORD000004;07/05/2025;BOOK00015;IT;MKT;1;0.05;Eva;Lefebvre;Rip it Up and Start Again
+ORD000005;02/06/2025;BOOK00011;ES;MKT;3;0.0;Camille;Roux;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000006;10/03/2025;BOOK00008;IT;WEB;2;0.25;Clara;Mercier;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000009;22/01/2025;BOOK00007;DE;WEB;3;0.15;Hugo;Leroy;The Dirty Little Secrets of Getting Your Dream Job
+ORD000011;21/06/2025;BOOK00019;DE;MKT;1;0.0;Alice;Roux;Libertarianism for Beginners
+ORD000013;12/05/2025;BOOK00011;BE;WEB;2;0.1;Anna;Thomas;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000014;25/01/2025;BOOK00011;DE;WEB;1;0.35;Lucas;Lefebvre;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000017;12/02/2025;BOOK00004;DE;WEB;1;0.0;Eva;Leroy;Sharp Objects
+ORD000018;27/04/2025;BOOK00008;DE;MKT;8;0.05;Jules;Petit;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000020;11/05/2025;BOOK00003;NL;WEB;1;0.3;Alice;Durand;Soumission
+ORD000023;09/06/2025;BOOK00002;PT;WEB;2;0.0;Chloe;Francois;Tipping the Velvet
+ORD000025;22/05/2025;BOOK00012;IE;WEB;4;0.0;Ethan;Robert;Shakespeare's Sonnets
+ORD000026;11/03/2025;BOOK00006;ES;APP;2;0.0;Victor;Bonnet;The Requiem Red
+ORD000027;14/01/2025;BOOK00002;ES;MKT;2;0.1;Hugo;Lefevre;Tipping the Velvet
+ORD000030;20/06/2025;BOOK00001;DE;WEB;3;0.0;Hugo;Dupont;A Light in the Attic
+ORD000031;15/02/2025;BOOK00012;DE;WEB;5;0.15;Rayan;Lefevre;Shakespeare's Sonnets
+ORD000035;15/02/2025;BOOK00012;PT;WEB;2;0.25;Gabriel;Bertrand;Shakespeare's Sonnets
+ORD000037;21/06/2025;BOOK00017;DE;WEB;4;0.05;Adam;Francois;Olio
+ORD000040;05/06/2025;BOOK00010;BE;WEB;4;0.3;Adam;Richard;The Black Maria
+ORD000043;09/04/2025;BOOK00016;DE;WEB;3;0.0;Tom;Andre;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000044;13/05/2025;BOOK00015;FR;WEB;4;0.15;Ethan;Fournier;Rip it Up and Start Again
+ORD000045;23/03/2025;BOOK00015;IE;APP;4;0.05;Adam;Bonnet;Rip it Up and Start Again
+ORD000046;02/05/2025;BOOK00019;BE;WEB;4;0.0;Chloe;Andre;Libertarianism for Beginners
+ORD000047;15/03/2025;BOOK00012;BE;WEB;1;0.05;Elena;Petit;Shakespeare's Sonnets
+ORD000049;28/05/2025;BOOK00020;DE;MKT;2;0.3;Theo;Roux;It's Only the Himalayas
+ORD000051;14/04/2025;BOOK00003;FR;WEB;1;0.15;Emma;Dubois;Soumission
+ORD000052;14/06/2025;BOOK00005;FR;WEB;2;0.1;Ines;Francois;Sapiens: A Brief History of Humankind
+ORD000053;08/04/2025;BOOK00019;IT;MKT;1;0.2;Arthur;Durand;Libertarianism for Beginners
+ORD000054;16/06/2025;BOOK00007;NL;APP;3;0.0;Lea;Durand;The Dirty Little Secrets of Getting Your Dream Job
+ORD000056;30/01/2025;BOOK00009;NL;MKT;1;0.1;Eva;Andre;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000057;20/02/2025;BOOK00007;ES;MKT;2;0.05;Tom;Vincent;The Dirty Little Secrets of Getting Your Dream Job
+ORD000058;11/01/2025;BOOK00018;ES;APP;2;0.1;Louis;Michel;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000059;03/04/2025;BOOK00004;IE;WEB;1;0.3;Lina;Fournier;Sharp Objects
+ORD000062;24/02/2025;BOOK00014;NL;WEB;4;0.05;Chloe;Durand;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+ORD000063;15/04/2025;BOOK00018;ES;WEB;2;0.0;Jules;Durand;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000065;27/04/2025;BOOK00009;BE;WEB;4;0.15;Hugo;Petit;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000068;28/06/2025;BOOK00002;ES;APP;1;0.1;Mia;Richard;Tipping the Velvet
+ORD000069;14/01/2025;BOOK00020;PT;WEB;4;0.15;Lucas;Robert;It's Only the Himalayas
+ORD000071;27/02/2025;BOOK00015;ES;WEB;2;0.15;Adam;Thomas;Rip it Up and Start Again
+ORD000073;26/06/2025;BOOK00007;DE;WEB;2;0.15;Noah;Martinez;The Dirty Little Secrets of Getting Your Dream Job
+ORD000074;09/03/2025;BOOK00012;NL;APP;3;0.15;Lea;Martinez;Shakespeare's Sonnets
+ORD000076;11/03/2025;BOOK00008;ES;WEB;2;0.05;Chloe;Durand;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000077;22/06/2025;BOOK00015;NL;APP;2;0.2;Leo;Bertrand;Rip it Up and Start Again
+ORD000078;16/06/2025;BOOK00003;IE;WEB;2;0.1;Mia;Simon;Soumission
+ORD000079;21/06/2025;BOOK00014;NL;WEB;4;0.15;Lucas;Garcia;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+ORD000080;23/01/2025;BOOK00017;BE;WEB;3;0.1;Lucas;Petit;Olio
+ORD000081;13/05/2025;BOOK00004;ES;WEB;1;0.1;Nina;Francois;Sharp Objects
+ORD000082;28/06/2025;BOOK00018;FR;MKT;1;0.0;Emma;Roux;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000083;15/04/2025;BOOK00008;FR;MKT;1;0.0;Victor;Andre;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000084;16/03/2025;BOOK00004;IT;WEB;2;0.1;Anna;Martinez;Sharp Objects
+ORD000085;03/06/2025;BOOK00002;IT;WEB;2;0.25;Lucie;Martin;Tipping the Velvet
+ORD000086;14/03/2025;BOOK00006;BE;APP;7;0.1;Arthur;Simon;The Requiem Red
+ORD000088;16/04/2025;BOOK00010;BE;WEB;5;0.35;Leo;Bernard;The Black Maria
+ORD000089;02/02/2025;BOOK00004;PT;WEB;2;0.2;Adam;Robert;Sharp Objects
+ORD000092;10/01/2025;BOOK00018;FR;APP;5;0.25;Louis;Mercier;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000094;21/04/2025;BOOK00012;BE;WEB;3;0.0;Rayan;Lefebvre;Shakespeare's Sonnets
+ORD000095;08/06/2025;BOOK00002;BE;MKT;2;0.15;Emma;Francois;Tipping the Velvet
+ORD000096;30/04/2025;BOOK00010;BE;WEB;2;0.0;Theo;Andre;The Black Maria
+ORD000097;06/03/2025;BOOK00004;NL;WEB;2;0.1;Alice;Moreau;Sharp Objects
+ORD000098;29/06/2025;BOOK00014;FR;MKT;1;0.15;Lucas;Martinez;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+ORD000099;05/06/2025;BOOK00016;DE;MKT;1;0.0;Sarah;Petit;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000100;08/06/2025;BOOK00015;IT;APP;3;0.2;Jules;Dupont;Rip it Up and Start Again
+ORD000101;23/04/2025;BOOK00008;ES;APP;2;0.05;Lea;Dupont;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000102;19/05/2025;BOOK00014;PT;WEB;5;0.0;Lucie;David;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+ORD000106;24/05/2025;BOOK00008;IE;WEB;2;0.0;Theo;Thomas;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000108;21/06/2025;BOOK00016;IT;WEB;1;0.1;Gabriel;Michel;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000109;13/03/2025;BOOK00013;IT;WEB;1;0.0;Mathis;Laurent;Set Me Free
+ORD000110;20/05/2025;BOOK00018;PT;WEB;1;0.3;Lucie;Garcia;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000111;24/01/2025;BOOK00015;FR;APP;5;0.0;Lea;Dupont;Rip it Up and Start Again
+ORD000119;04/06/2025;BOOK00013;FR;APP;3;0.25;Mia;Lambert;Set Me Free
+ORD000120;27/04/2025;BOOK00009;DE;WEB;2;0.0;Victor;David;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000122;26/03/2025;BOOK00015;FR;WEB;4;0.25;Gabriel;Moreau;Rip it Up and Start Again
+ORD000123;01/04/2025;BOOK00013;ES;WEB;3;0.0;Ethan;Laurent;Set Me Free
+ORD000124;30/01/2025;BOOK00001;BE;WEB;1;0.15;Lina;Martin;A Light in the Attic
+ORD000126;18/01/2025;BOOK00007;IT;MKT;1;0.05;Arthur;Moreau;The Dirty Little Secrets of Getting Your Dream Job
+ORD000127;25/03/2025;BOOK00009;PT;APP;3;0.15;Chloe;Leroy;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000129;14/03/2025;BOOK00001;IT;WEB;3;0.35;Emma;Petit;A Light in the Attic
+ORD000130;19/03/2025;BOOK00012;IT;APP;1;0.2;Lea;Lefebvre;Shakespeare's Sonnets
+ORD000131;17/05/2025;BOOK00008;FR;WEB;4;0.2;Theo;Martin;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000133;25/03/2025;BOOK00011;NL;APP;4;0.2;Theo;Vincent;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000134;13/04/2025;BOOK00019;FR;MKT;3;0.0;Clara;Morel;Libertarianism for Beginners
+ORD000135;30/01/2025;BOOK00017;DE;MKT;1;0.0;Anna;Richard;Olio
+ORD000136;04/06/2025;BOOK00008;IT;APP;2;0.15;Nina;Girard;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000137;25/05/2025;BOOK00003;ES;APP;4;0.0;Nina;Morel;Soumission
+ORD000138;19/03/2025;BOOK00003;BE;WEB;2;0.0;Arthur;Lambert;Soumission
+ORD000139;15/03/2025;BOOK00001;IT;MKT;2;0.15;Camille;Bernard;A Light in the Attic
+ORD000141;29/03/2025;BOOK00005;FR;APP;2;0.15;Hugo;Laurent;Sapiens: A Brief History of Humankind
+ORD000142;06/04/2025;BOOK00010;BE;WEB;1;0.05;Mia;Thomas;The Black Maria
+ORD000143;23/05/2025;BOOK00007;DE;WEB;3;0.05;Victor;Laurent;The Dirty Little Secrets of Getting Your Dream Job
+ORD000145;02/02/2025;BOOK00009;IT;MKT;8;0.15;Arthur;Martin;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000147;20/01/2025;BOOK00007;NL;WEB;3;0.2;Gabriel;Lefebvre;The Dirty Little Secrets of Getting Your Dream Job
+ORD000148;09/02/2025;BOOK00009;FR;APP;3;0.0;Arthur;Girard;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000149;02/03/2025;BOOK00008;ES;APP;3;0.0;Tom;Dupont;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000150;01/05/2025;BOOK00012;NL;WEB;5;0.1;Ines;Lefebvre;Shakespeare's Sonnets
+ORD000151;09/05/2025;BOOK00002;DE;WEB;1;0.0;Leo;Bonnet;Tipping the Velvet
+ORD000152;06/04/2025;BOOK00001;IE;APP;1;0.25;Nina;Francois;A Light in the Attic
+ORD000153;12/05/2025;BOOK00016;NL;WEB;5;0.2;Theo;Bernard;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000157;15/03/2025;BOOK00005;BE;WEB;2;0.25;Gabriel;Roux;Sapiens: A Brief History of Humankind
+ORD000158;05/01/2025;BOOK00003;DE;WEB;2;0.0;Alice;Michel;Soumission
+ORD000159;17/02/2025;BOOK00012;IT;WEB;1;0.15;Eva;Laurent;Shakespeare's Sonnets
+ORD000160;06/03/2025;BOOK00008;FR;APP;1;0.25;Lea;Bernard;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000163;12/05/2025;BOOK00003;PT;WEB;1;0.2;Rayan;Morel;Soumission
+ORD000164;26/03/2025;BOOK00001;FR;WEB;4;0.05;Leo;Andre;A Light in the Attic
+ORD000165;08/05/2025;BOOK00003;IE;WEB;4;0.05;Ethan;Moreau;Soumission
+ORD000166;24/03/2025;BOOK00005;FR;APP;2;0.1;Lucas;Lefevre;Sapiens: A Brief History of Humankind
+ORD000167;01/04/2025;BOOK00015;PT;WEB;6;0.1;Clara;Dupont;Rip it Up and Start Again
+ORD000168;23/06/2025;BOOK00014;PT;WEB;2;0.0;Ines;Morel;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+ORD000169;04/04/2025;BOOK00003;DE;APP;2;0.0;Ines;Dubois;Soumission
+ORD000170;27/05/2025;BOOK00001;ES;WEB;3;0.0;Hugo;David;A Light in the Attic
+ORD000171;13/05/2025;BOOK00005;IE;WEB;4;0.15;Victor;David;Sapiens: A Brief History of Humankind
+ORD000174;05/02/2025;BOOK00014;NL;WEB;2;0.35;Gabriel;Francois;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+ORD000175;23/01/2025;BOOK00007;BE;MKT;4;0.2;Lea;Simon;The Dirty Little Secrets of Getting Your Dream Job
+ORD000177;15/01/2025;BOOK00009;FR;WEB;2;0.0;Clara;Francois;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000178;14/03/2025;BOOK00015;FR;WEB;5;0.15;Ethan;Dubois;Rip it Up and Start Again
+ORD000179;09/05/2025;BOOK00015;FR;MKT;2;0.05;Chloe;Bernard;Rip it Up and Start Again
+ORD000181;20/05/2025;BOOK00010;IT;WEB;2;0.0;Lucas;Richard;The Black Maria
+ORD000183;13/04/2025;BOOK00013;IT;WEB;1;0.0;Noah;Robert;Set Me Free
+ORD000184;25/01/2025;BOOK00019;BE;WEB;1;0.25;Victor;Vincent;Libertarianism for Beginners
+ORD000185;22/03/2025;BOOK00007;IT;WEB;2;0.05;Eva;Bertrand;The Dirty Little Secrets of Getting Your Dream Job
+ORD000186;28/04/2025;BOOK00017;FR;WEB;2;0.25;Jules;Roux;Olio
+ORD000187;03/01/2025;BOOK00020;FR;WEB;2;0.0;Eva;Bernard;It's Only the Himalayas
+ORD000189;06/06/2025;BOOK00004;FR;WEB;2;0.0;Lea;Petit;Sharp Objects
+ORD000190;04/06/2025;BOOK00005;DE;WEB;2;0.05;Gabriel;Francois;Sapiens: A Brief History of Humankind
+ORD000192;25/05/2025;BOOK00007;DE;WEB;1;0.15;Rayan;Andre;The Dirty Little Secrets of Getting Your Dream Job
+ORD000193;11/06/2025;BOOK00013;ES;WEB;3;0.05;Clara;Morel;Set Me Free
+ORD000194;08/06/2025;BOOK00015;NL;WEB;3;0.05;Emma;Garcia;Rip it Up and Start Again
+ORD000195;22/03/2025;BOOK00011;FR;APP;2;0.2;Elena;Robert;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000197;29/03/2025;BOOK00004;DE;APP;4;0.0;Noah;Leroy;Sharp Objects
+ORD000198;23/05/2025;BOOK00013;FR;MKT;2;0.1;Mia;David;Set Me Free
+ORD000199;31/03/2025;BOOK00007;IE;APP;1;0.1;Lucie;Laurent;The Dirty Little Secrets of Getting Your Dream Job
+ORD000201;18/05/2025;BOOK00019;IE;APP;1;0.15;Noah;Morel;Libertarianism for Beginners
+ORD000204;01/03/2025;BOOK00002;IT;MKT;1;0.2;Lucie;Lefebvre;Tipping the Velvet
+ORD000205;07/05/2025;BOOK00010;IE;MKT;5;0.0;Alice;Fournier;The Black Maria
+ORD000206;28/01/2025;BOOK00013;PT;WEB;8;0.2;Rayan;Bertrand;Set Me Free
+ORD000209;25/01/2025;BOOK00006;PT;WEB;5;0.1;Ines;Leroy;The Requiem Red
+ORD000212;26/02/2025;BOOK00012;PT;WEB;2;0.1;Ines;Roux;Shakespeare's Sonnets
+ORD000213;20/06/2025;BOOK00012;FR;WEB;3;0.1;Chloe;Martinez;Shakespeare's Sonnets
+ORD000214;25/05/2025;BOOK00020;FR;WEB;1;0.25;Louis;Girard;It's Only the Himalayas
+ORD000215;22/02/2025;BOOK00011;ES;WEB;1;0.1;Alice;Bernard;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000220;11/04/2025;BOOK00007;FR;MKT;3;0.15;Ethan;Michel;The Dirty Little Secrets of Getting Your Dream Job
+ORD000221;17/05/2025;BOOK00001;NL;WEB;2;0.2;Lucas;Dupont;A Light in the Attic
+ORD000222;19/06/2025;BOOK00001;ES;MKT;3;0.0;Lucas;Garcia;A Light in the Attic
+ORD000226;14/06/2025;BOOK00020;DE;WEB;4;0.0;Ines;Roux;It's Only the Himalayas
+ORD000227;02/05/2025;BOOK00013;NL;WEB;4;0.1;Ethan;Bertrand;Set Me Free
+ORD000228;04/02/2025;BOOK00009;BE;WEB;4;0.0;Adam;Lambert;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000229;18/02/2025;BOOK00003;BE;APP;1;0.2;Leo;Petit;Soumission
+ORD000230;27/03/2025;BOOK00007;PT;WEB;5;0.0;Ines;David;The Dirty Little Secrets of Getting Your Dream Job
+ORD000231;04/03/2025;BOOK00006;ES;WEB;5;0.25;Nina;Roux;The Requiem Red
+ORD000232;16/06/2025;BOOK00008;BE;WEB;4;0.4;Ines;Lambert;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000234;30/05/2025;BOOK00009;IT;WEB;1;0.25;Ethan;Morel;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000235;25/06/2025;BOOK00005;BE;MKT;5;0.05;Adam;Dupont;Sapiens: A Brief History of Humankind
+ORD000236;01/04/2025;BOOK00001;FR;WEB;1;0.2;Lucie;Girard;A Light in the Attic
+ORD000237;13/01/2025;BOOK00019;FR;WEB;3;0.0;Clara;Garcia;Libertarianism for Beginners
+ORD000238;06/04/2025;BOOK00010;ES;APP;2;0.0;Ethan;Roux;The Black Maria
+ORD000239;16/04/2025;BOOK00012;FR;APP;2;0.25;Tom;Martinez;Shakespeare's Sonnets
+ORD000241;06/04/2025;BOOK00015;DE;WEB;4;0.2;Chloe;Lefebvre;Rip it Up and Start Again
+ORD000245;12/04/2025;BOOK00009;FR;WEB;2;0.1;Ines;Lefevre;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000246;05/02/2025;BOOK00020;PT;APP;2;0.05;Mia;Fournier;It's Only the Himalayas
+ORD000247;07/06/2025;BOOK00017;DE;APP;2;0.05;Arthur;Roux;Olio
+ORD000248;07/04/2025;BOOK00017;FR;APP;2;0.05;Lina;Robert;Olio
+ORD000250;03/04/2025;BOOK00020;BE;WEB;2;0.05;Emma;Dubois;It's Only the Himalayas
+ORD000251;01/04/2025;BOOK00012;FR;APP;2;0.05;Adam;Francois;Shakespeare's Sonnets
+ORD000252;24/05/2025;BOOK00007;PT;WEB;2;0.0;Lina;David;The Dirty Little Secrets of Getting Your Dream Job
+ORD000253;07/02/2025;BOOK00002;FR;WEB;1;0.3;Adam;Morel;Tipping the Velvet
+ORD000254;07/05/2025;BOOK00003;ES;WEB;1;0.0;Gabriel;Lefebvre;Soumission
+ORD000255;26/03/2025;BOOK00017;BE;APP;3;0.15;Anna;David;Olio
+ORD000256;22/03/2025;BOOK00005;PT;MKT;2;0.25;Eva;Leroy;Sapiens: A Brief History of Humankind
+ORD000257;11/04/2025;BOOK00017;FR;APP;1;0.15;Nina;Andre;Olio
+ORD000259;06/03/2025;BOOK00017;FR;WEB;2;0.1;Ethan;Bertrand;Olio
+ORD000261;12/02/2025;BOOK00017;ES;APP;4;0.0;Tom;Michel;Olio
+ORD000262;28/01/2025;BOOK00002;FR;WEB;3;0.15;Alice;Andre;Tipping the Velvet
+ORD000263;09/05/2025;BOOK00002;DE;WEB;2;0.0;Lucie;Lefevre;Tipping the Velvet
+ORD000267;18/06/2025;BOOK00005;DE;APP;4;0.15;Anna;Petit;Sapiens: A Brief History of Humankind
+ORD000268;13/03/2025;BOOK00001;IT;APP;1;0.0;Louis;Leroy;A Light in the Attic
+ORD000269;21/06/2025;BOOK00001;DE;MKT;2;0.1;Arthur;Bonnet;A Light in the Attic
+ORD000270;28/04/2025;BOOK00019;FR;APP;3;0.0;Noah;Moreau;Libertarianism for Beginners
+ORD000271;30/01/2025;BOOK00002;DE;WEB;1;0.1;Sarah;Roux;Tipping the Velvet
+ORD000273;08/06/2025;BOOK00012;NL;MKT;1;0.3;Clara;Morel;Shakespeare's Sonnets
+ORD000275;12/03/2025;BOOK00006;ES;WEB;2;0.0;Louis;Leroy;The Requiem Red
+ORD000277;17/06/2025;BOOK00004;BE;MKT;2;0.25;Rayan;Thomas;Sharp Objects
+ORD000279;22/02/2025;BOOK00011;FR;WEB;1;0.1;Alice;Leroy;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000282;11/06/2025;BOOK00017;ES;WEB;1;0.25;Nina;David;Olio
+ORD000283;25/03/2025;BOOK00006;FR;APP;4;0.05;Tom;Roux;The Requiem Red
+ORD000285;25/05/2025;BOOK00005;DE;WEB;3;0.1;Emma;Thomas;Sapiens: A Brief History of Humankind
+ORD000286;10/02/2025;BOOK00020;DE;MKT;1;0.0;Rayan;Martinez;It's Only the Himalayas
+ORD000287;12/03/2025;BOOK00002;IT;WEB;1;0.15;Elena;Mercier;Tipping the Velvet
+ORD000288;01/03/2025;BOOK00006;IT;APP;2;0.15;Mathis;Garcia;The Requiem Red
+ORD000290;27/01/2025;BOOK00011;BE;MKT;1;0.05;Clara;Vincent;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000291;03/01/2025;BOOK00016;IT;WEB;3;0.1;Rayan;Petit;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000292;23/01/2025;BOOK00016;FR;APP;2;0.05;Noah;Leroy;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000293;15/06/2025;BOOK00001;BE;APP;4;0.15;Camille;Moreau;A Light in the Attic
+ORD000294;22/02/2025;BOOK00009;ES;WEB;1;0.2;Leo;Lefebvre;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000297;11/01/2025;BOOK00006;FR;APP;2;0.15;Ethan;Roux;The Requiem Red
+ORD000298;07/06/2025;BOOK00016;BE;WEB;1;0.0;Mia;Lefebvre;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000300;23/01/2025;BOOK00003;DE;WEB;2;0.05;Louis;Martin;Soumission
+ORD000301;05/02/2025;BOOK00020;FR;WEB;2;0.0;Ines;Bonnet;It's Only the Himalayas
+ORD000304;27/05/2025;BOOK00004;IT;WEB;1;0.0;Lucas;David;Sharp Objects
+ORD000305;04/04/2025;BOOK00019;IE;WEB;5;0.25;Noah;Simon;Libertarianism for Beginners
+ORD000307;13/05/2025;BOOK00003;PT;WEB;2;0.0;Chloe;Roux;Soumission
+ORD000308;27/04/2025;BOOK00019;DE;WEB;3;0.1;Ines;Mercier;Libertarianism for Beginners
+ORD000309;20/02/2025;BOOK00020;IE;APP;1;0.0;Ethan;Laurent;It's Only the Himalayas
+ORD000310;12/06/2025;BOOK00007;IT;WEB;2;0.2;Anna;Bertrand;The Dirty Little Secrets of Getting Your Dream Job
+ORD000311;02/03/2025;BOOK00020;DE;WEB;8;0.0;Noah;Francois;It's Only the Himalayas
+ORD000312;14/05/2025;BOOK00009;IT;WEB;5;0.0;Lea;Morel;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000313;11/04/2025;BOOK00001;ES;WEB;3;0.0;Mia;Martinez;A Light in the Attic
+ORD000314;11/04/2025;BOOK00008;NL;WEB;1;0.0;Ines;Mercier;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000315;30/05/2025;BOOK00007;FR;WEB;2;0.0;Ines;Petit;The Dirty Little Secrets of Getting Your Dream Job
+ORD000316;26/04/2025;BOOK00018;DE;MKT;2;0.05;Anna;Lambert;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000317;25/03/2025;BOOK00008;FR;WEB;1;0.0;Hugo;Martin;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+ORD000318;14/04/2025;BOOK00001;DE;APP;2;0.2;Emma;Bernard;A Light in the Attic
+ORD000319;26/02/2025;BOOK00011;FR;WEB;3;0.0;Lucie;Dubois;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000323;16/04/2025;BOOK00018;ES;WEB;1;0.15;Noah;Morel;Mesaerion: The Best Science Fiction Stories 1800-1849
+ORD000325;10/04/2025;BOOK00010;FR;WEB;2;0.4;Ines;Vincent;The Black Maria
+ORD000326;01/03/2025;BOOK00003;FR;APP;1;0.3;Alice;Bonnet;Soumission
+ORD000327;10/04/2025;BOOK00007;IE;MKT;1;0.25;Victor;Vincent;The Dirty Little Secrets of Getting Your Dream Job
+ORD000329;14/02/2025;BOOK00016;FR;WEB;1;0.0;Victor;Fournier;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000331;31/05/2025;BOOK00016;IE;APP;4;0.0;Mathis;Lefebvre;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000333;23/03/2025;BOOK00020;IT;APP;4;0.05;Eva;Moreau;It's Only the Himalayas
+ORD000335;04/06/2025;BOOK00017;IE;MKT;1;0.0;Adam;Dubois;Olio
+ORD000336;02/03/2025;BOOK00002;PT;WEB;3;0.15;Camille;Simon;Tipping the Velvet
+ORD000337;25/04/2025;BOOK00001;BE;WEB;2;0.2;Eva;Garcia;A Light in the Attic
+ORD000338;18/04/2025;BOOK00016;IE;WEB;2;0.15;Sarah;Mercier;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000339;25/06/2025;BOOK00012;FR;WEB;4;0.0;Louis;Dubois;Shakespeare's Sonnets
+ORD000340;29/03/2025;BOOK00005;IE;WEB;1;0.4;Elena;Martin;Sapiens: A Brief History of Humankind
+ORD000341;21/04/2025;BOOK00005;FR;MKT;1;0.3;Theo;Andre;Sapiens: A Brief History of Humankind
+ORD000344;16/03/2025;BOOK00009;DE;WEB;4;0.05;Sarah;Roux;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000345;10/04/2025;BOOK00009;DE;WEB;1;0.05;Lucie;Leroy;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+ORD000346;25/05/2025;BOOK00003;FR;APP;2;0.15;Noah;Roux;Soumission
+ORD000347;16/01/2025;BOOK00019;DE;WEB;5;0.3;Alice;Francois;Libertarianism for Beginners
+ORD000348;02/03/2025;BOOK00016;BE;WEB;3;0.2;Louis;Mercier;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000349;25/04/2025;BOOK00016;PT;WEB;1;0.15;Theo;Petit;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+ORD000350;10/06/2025;BOOK00003;NL;WEB;5;0.0;Eva;Roux;Soumission
+ORD000351;12/04/2025;BOOK00020;BE;WEB;1;0.15;Tom;Michel;It's Only the Himalayas
+ORD000355;10/03/2025;BOOK00001;DE;WEB;4;0.15;Mathis;Thomas;A Light in the Attic
+ORD000357;24/04/2025;BOOK00020;IE;WEB;2;0.05;Chloe;Moreau;It's Only the Himalayas
+ORD000358;10/05/2025;BOOK00011;FR;MKT;3;0.2;Lucie;Bernard;Starving Hearts (Triangular Trade Trilogy, #1)
+ORD000359;05/03/2025;BOOK00017;DE;MKT;4;0.1;Sarah;Martinez;Olio
+ORD000360;01/02/2025;BOOK00008;FR;WEB;1;0.15;Arthur;Laurent;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
