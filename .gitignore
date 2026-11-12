@@ -11,13 +11,9 @@ venv/
 
 # Logs et données locales
 *.log
-*.db
-*.sqlite3
 
 # Notebooks
 .ipynb_checkpoints/
 
 # IDE et système
 .vscode/
-.idea/
-.DS_Store
