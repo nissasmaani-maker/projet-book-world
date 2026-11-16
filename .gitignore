@@ -17,3 +17,8 @@ venv/
 
 # IDE et système
 .vscode/
+
+#Backup et test
+bookworld_backup.db
+bookworld_test.db
+schema_final_backup.sql
