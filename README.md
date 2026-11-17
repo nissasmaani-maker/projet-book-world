@@ -133,18 +133,142 @@ Ces résultats correspondent au jeu de données utilisé pour le projet.
 
 ## 7. API REST Flask
 
-Le fichier api.py expose quatre endpoints protégés par une clé API.
+L'API Book World est développée avec Flask. Elle permet de consulter les indicateurs commerciaux enregistrés dans la table sales_by_country de la base bookworld_final.db.
 
-| Méthode | Endpoint | Description |
-|---|---|---|
-| GET | /sales_by_country | Afficher les ventes par pays |
-| GET | /sales_by_country/FR | Afficher les ventes pour un pays |
-| GET | /kpis | Afficher les indicateurs globaux |
-| GET | /top_countries | Classer les pays selon leur chiffre d'affaires |
+Adresse locale : http://127.0.0.1:5000
 
-La clé API est transmise dans l'en-tête HTTP X-API-Key.
+###7.1 Authentification
 
-Une requête sans clé valide retourne une erreur HTTP 401.
+Toutes les routes nécessitent une clé API transmise dans l'en-tête HTTP :
+
+X-API-Key: VOTRE_CLE_API
+
+La clé est configurée dans le fichier .env, qui n'est pas publié sur GitHub.
+
+Si la clé est absente ou incorrecte, l'API renvoie le code HTTP 401 Unauthorized.
+
+###7.2 Liste des endpoints
+
+Méthode
+
+Endpoint
+
+Description
+
+GET
+
+/sales_by_country
+
+Récupérer les ventes agrégées de tous les pays
+
+GET
+
+/sales_by_country/{country_code}
+
+Récupérer les ventes d'un pays
+
+GET
+
+/kpis
+
+Récupérer les indicateurs commerciaux globaux
+
+GET
+
+/top_countries
+
+Récupérer le classement des pays par chiffre d'affaires en euros
+
+###7.3 Endpoint GET /sales_by_country
+
+Objectif : consulter les ventes agrégées par pays.
+
+Paramètres : aucun.
+
+Réponse HTTP 200 : données JSON contenant notamment :
+
+country_code : code du pays
+
+country_name : nom du pays
+
+total_orders : nombre de commandes distinctes
+
+total_quantity : quantité totale de livres vendus
+
+total_revenue_gbp : chiffre d'affaires en livres sterling
+
+total_revenue_eur : chiffre d'affaires en euros
+
+Erreur possible : HTTP 401 si la clé API est absente ou invalide.
+
+###7.4 Endpoint GET /sales_by_country/{country_code}
+
+Objectif : consulter les indicateurs d'un pays précis.
+
+Paramètre obligatoire : country_code, transmis directement dans l'URL.
+
+Exemple : /sales_by_country/FR
+
+Réponse HTTP 200 : indicateurs commerciaux du pays demandé, au format JSON.
+
+Erreurs possibles :
+
+HTTP 401 : clé API invalide ou absente.
+
+HTTP 404 : aucun pays correspondant au code demandé.
+
+###7.5 Endpoint GET /kpis
+
+Objectif : récupérer les indicateurs commerciaux globaux.
+
+Paramètres : aucun.
+
+Réponse HTTP 200 : un objet JSON contenant les totaux des commandes, des quantités et des chiffres d'affaires GBP/EUR.
+
+Erreur possible : HTTP 401 si la clé API est absente ou invalide.
+
+###7.6 Endpoint GET /top_countries
+
+Objectif : classer les pays selon leur chiffre d'affaires en euros.
+
+Paramètres : aucun.
+
+Réponse HTTP 200 : liste des pays classés par total_revenue_eur, du plus élevé au plus faible.
+
+Erreur possible : HTTP 401 si la clé API est absente ou invalide.
+
+###7.7 Exemple d'utilisation
+
+Démarrer l'API :
+
+python api.py
+
+Dans un deuxième terminal Ubuntu, récupérer la clé configurée localement :
+
+API_KEY=$(grep '^API_KEY=' .env | cut -d= -f2-)
+
+Interroger l'API :
+
+curl -H "X-API-Key: $API_KEY" http://127.0.0.1:5000/kpis
+
+Tester un pays :
+
+curl -H "X-API-Key: $API_KEY" http://127.0.0.1:5000/sales_by_country/FR
+
+Tester l'authentification sans clé :
+
+curl -i http://127.0.0.1:5000/kpis
+
+Résultat attendu : HTTP 401 avec un message indiquant que la clé API est invalide ou absente.
+
+###7.8 Sécurité et limites
+
+L'API est protégée par une clé API et utilise des requêtes SQL paramétrées pour la recherche d'un pays.
+
+Elle ne renvoie pas les noms et prénoms présents dans le fichier source.
+
+L'API est actuellement exécutée localement avec Flask et debug=False.
+
 
 ## 8. Installation et exécution
 
